@@ -12,4 +12,6 @@ The initial version trained the classification models using Jupyter Notebook but
 To run the Python code you must have [scikit-learn](https://scikit-learn.org/stable/install.html) and [sklearn-porter](https://github.com/nok/sklearn-porter) installed.
 
 ## Android
+The Android application for this project is adapted from the [Adafruit Bluefruit LE Connect project](https://github.com/adafruit/Bluefruit_LE_Connect_Android_v2)
+
 The end device for this system is an Android smart phone with Bluetooth enabled. This section of the project was written using [Android Studio](https://developer.android.com/studio). The relevant files in this part of the project are DataCollectorFragment.java and PostureDetectorFragment.java
