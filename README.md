@@ -1,5 +1,5 @@
 # Postshirt
-Postshirt is a realtime wireless posture detection system that transmits and classifies accelerometer data from an Adafruit Feather to an Android application via Bluetooth. A demo video of the whole system can be viewed [here](https://www.youtube.com/watch?v=Y39d0TkPlog)
+Postshirt is a realtime wireless posture detection system that transmits and classifies accelerometer data from an Adafruit Feather to an Android application via Bluetooth. A demo video of the whole system can be viewed [here](https://www.youtube.com/watch?v=Y39d0TkPlog) and the instructable for how to assemble and run everything can be viewed [here](https://www.instructables.com/id/Postshirt-Realtime-Wearable-Posture-Detection/)
 
 ### Putting it Together
 Postshirt has 3 distinct components: an arduino based sensor data recorder, a jupyter notebook SVM trainer, and an android application for runtime classification and user feedback
